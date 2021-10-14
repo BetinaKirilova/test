@@ -8,6 +8,7 @@ data(){
         gender : 'male',
         picture : 'https://randomuser.me/api/portraits/men/60.jpg',
     }
+    
 },
 methods : {
     async getRandomUser(){
